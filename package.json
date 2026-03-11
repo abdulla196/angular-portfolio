@@ -22,7 +22,8 @@
     "@angular/ssr": "^21.2.1",
     "express": "^5.1.0",
     "rxjs": "~7.8.0",
-    "tslib": "^2.3.0"
+    "tslib": "^2.3.0", 
+    "zone.js": "^0.15.1"
   },
   "devDependencies": {
     "@angular/build": "^21.2.1",
@@ -36,6 +37,7 @@
     "prettier": "^3.8.1",
     "tailwindcss": "^4.1.12",
     "typescript": "~5.9.2",
-    "vitest": "^4.0.8"
+    "vitest": "^4.0.8", 
+    "gh-pages": "^6.3.0"
   }
 }
